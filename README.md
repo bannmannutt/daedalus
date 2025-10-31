@@ -8,6 +8,7 @@ DaedalusX64 is a Nintendo 64 emulator for PSP, 3DS, Vita, Linux, macOS and Windo
 - High compatibility
 - Support for PSP / 3DS / macOS / Linux / Windows
 - Active support and updates
+- Getting built
 
 ## Things that don't work right now:
 - Big Endian (So no builds for PowerPC at the moment sorry).
